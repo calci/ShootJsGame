@@ -1,4 +1,4 @@
-# ShootJsGame
+# Shoot-Js-Game
 A basic game built in javascript from scratch. The game was built using a detailed tutorial.
 
 ## Inspiration
